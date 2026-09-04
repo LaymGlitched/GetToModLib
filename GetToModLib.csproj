@@ -493,6 +493,11 @@
 
 	<ItemGroup>
 		<Compile Include="Core.cs" />
+		<Compile Include="DebugLogger.cs" />
+		<Compile Include="GetToMod.cs" />
+		<Compile Include="ModConfig.cs" />
+		<Compile Include="ModUIManager.cs" />
+		<Compile Include="Utils.cs" />
 		<Content Include="Directory.Build.props" />
 	</ItemGroup>
 	
